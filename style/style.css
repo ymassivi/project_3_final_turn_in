@@ -41,7 +41,6 @@ nav ul li a {
 	     color: darkgoldenrod;
 }
 
-}
 nav{
     position: fixed;
     top: 100px;
@@ -296,3 +295,4 @@ strong{
 #myslides{
   width:  70%;
 }
+	}
