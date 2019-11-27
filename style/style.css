@@ -114,9 +114,6 @@ strong{
       background-color: #c00;
       margin:0 auto;
       overflow: hidden;
-
-
-
 }
 
 @media only screen and (min-width: 320px) {
@@ -127,19 +124,20 @@ strong{
   p {
     padding: 0em 2em;
   }
-	img {
+     img {
 	     object-fit: cover;
 	     object-position: 0 -1em;
 	     width: 850px;
 	     height: 600px;
 	}
-	embed{
+     embed{
 	      width: 850px;
 	      height: 600px;
 	}
-	h1, h2, h3, h4{
+   h1, h2, h3, h4{
 	  font-family: Cambria,Arial;
 	  text-align:center;
+}
 	#map {
 	        width: 850px;
 	        height: 700px;
@@ -180,6 +178,7 @@ strong{
 	h1, h2, h3, h4{
 	  font-family: Cambria,Arial;
 	  text-align:center;
+	}
 	#map {
 	        width: 850px;
 	        height: 700px;
@@ -295,4 +294,4 @@ strong{
 #myslides{
   width:  70%;
 }
-	}
+	
