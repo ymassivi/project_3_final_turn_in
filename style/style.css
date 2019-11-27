@@ -1,14 +1,4 @@
-header {
 
-	top: 0;
-	left: 0;
-	right: 0;
-        position: fixed;
-	display: flex;
-	flex-direction: row;
-	height: 50px;
-	z-index: 2;
-}
 body {
 	width:auto;
 	border: 1px solid black;
